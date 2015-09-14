@@ -17,4 +17,4 @@ information can be in SerialBasicDocumentation.pdf. More information on ALP is f
 
 Name:		    	Andrew Powell
 Contact Email:          andrew.powell@temple.edu
-Project Website:        www.powellsshowcase.bugs3.com.
+Project Website:        www.powellprojectshowcase.com
